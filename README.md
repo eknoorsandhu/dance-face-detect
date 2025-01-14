@@ -1,5 +1,7 @@
 # dance-face-detect
 
+Small project to learn ML and make a useful tool for myself. As a Kathak dancer I record videos of myself practicing and can use this tool to capture moments in the video during 360 degree spins, where my face is visible.
+
 ## Description
 
 video used: https://www.youtube.com/watch?v=k0GRekKFCMI
